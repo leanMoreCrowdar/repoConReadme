@@ -1,0 +1,25 @@
+#ltm_test_case_id: - 7c4949b2-5429-44fb-9b6d-25604021700c - 
+
+Tags:
+@Tag_name
+
+Identifier:
+Unique identifier of the test case
+
+Title:
+Testcase title
+
+Description:
+Test case description
+
+Preconditions:
+1.First precondition
+2.Second precondition
+
+Steps:
+1.First step
+2.Second step
+3.Third step
+
+Expected Result:
+Expected result of the test case
