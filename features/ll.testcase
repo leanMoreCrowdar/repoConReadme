@@ -1,0 +1,25 @@
+#ltm_test_case_id: - 1af98126-d752-4eb3-8e38-8e92d78ccfdd - 
+
+Tags:
+@Tag_name @Pepa
+
+Identifier:
+Unique identifier of the test case
+
+Title:
+Testcase title
+
+Description:
+Test case description
+
+Preconditions:
+1.First precondition
+2.Second precondition
+
+Steps:
+1.First step
+2.Second step
+3.Third step
+
+Expected Result:
+Expected result of the test case
