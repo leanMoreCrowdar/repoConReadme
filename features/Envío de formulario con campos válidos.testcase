@@ -1,0 +1,23 @@
+#ltm_test_case_id: - faf0d8ee-5680-4b80-99c3-78fa4c5f39d2 - 
+
+Tags:
+@Formulario @Validation
+
+Identifier:
+TC028
+
+Title:
+Envío de formulario con campos válidos
+
+Description:
+Verificar que se permita el envío de un formulario correctamente completado.
+
+Preconditions:
+
+
+Steps:
+1. Completar todos los campos
+2. Hacer clic en enviar
+
+Expected Result:
+El sistema guarda la información y muestra mensaje de éxito.
